@@ -1,0 +1,1214 @@
+cyear,city,city_avg_temp,glob_avg_temp
+1857,Johannesburg,14.25,7.76
+1858,Johannesburg,14.55,8.10
+1859,Johannesburg,14.62,8.25
+1860,Johannesburg,14.75,7.96
+1861,Johannesburg,14.57,7.85
+1862,Johannesburg,14.17,7.56
+1863,Johannesburg,14.58,8.11
+1864,Johannesburg,14.58,7.98
+1865,Johannesburg,14.91,8.18
+1866,Johannesburg,14.83,8.29
+1867,Johannesburg,14.92,8.44
+1868,Johannesburg,14.58,8.25
+1869,Johannesburg,14.92,8.43
+1870,Johannesburg,14.60,8.20
+1871,Johannesburg,14.70,8.12
+1872,Johannesburg,14.70,8.19
+1873,Johannesburg,13.91,8.35
+1874,Johannesburg,14.72,8.43
+1875,Johannesburg,14.45,7.86
+1876,Johannesburg,14.45,8.08
+1877,Johannesburg,14.93,8.54
+1878,Johannesburg,14.85,8.83
+1879,Johannesburg,14.37,8.17
+1880,Johannesburg,15.00,8.12
+1881,Johannesburg,14.67,8.27
+1882,Johannesburg,14.47,8.13
+1883,Johannesburg,14.69,7.98
+1884,Johannesburg,14.38,7.77
+1885,Johannesburg,14.76,7.92
+1886,Johannesburg,14.88,7.95
+1887,Johannesburg,14.44,7.91
+1888,Johannesburg,14.79,8.09
+1889,Johannesburg,15.23,8.32
+1890,Johannesburg,14.67,7.97
+1891,Johannesburg,14.73,8.02
+1892,Johannesburg,14.78,8.07
+1893,Johannesburg,14.48,8.06
+1894,Johannesburg,14.55,8.16
+1895,Johannesburg,14.71,8.15
+1896,Johannesburg,15.29,8.21
+1897,Johannesburg,14.82,8.29
+1898,Johannesburg,14.22,8.18
+1899,Johannesburg,14.59,8.40
+1900,Johannesburg,15.13,8.50
+1901,Johannesburg,14.56,8.54
+1902,Johannesburg,14.49,8.30
+1903,Johannesburg,14.68,8.22
+1904,Johannesburg,14.35,8.09
+1905,Johannesburg,14.66,8.23
+1906,Johannesburg,14.36,8.38
+1907,Johannesburg,14.27,7.95
+1908,Johannesburg,14.80,8.19
+1909,Johannesburg,14.77,8.18
+1910,Johannesburg,14.19,8.22
+1911,Johannesburg,14.57,8.18
+1912,Johannesburg,15.16,8.17
+1913,Johannesburg,15.18,8.30
+1914,Johannesburg,15.33,8.59
+1915,Johannesburg,14.78,8.59
+1916,Johannesburg,14.95,8.23
+1917,Johannesburg,14.21,8.02
+1918,Johannesburg,14.50,8.13
+1919,Johannesburg,15.11,8.38
+1920,Johannesburg,15.13,8.36
+1921,Johannesburg,14.49,8.57
+1922,Johannesburg,15.27,8.41
+1923,Johannesburg,15.42,8.42
+1924,Johannesburg,14.40,8.51
+1925,Johannesburg,14.78,8.53
+1926,Johannesburg,15.26,8.73
+1927,Johannesburg,15.18,8.52
+1928,Johannesburg,15.16,8.63
+1929,Johannesburg,15.17,8.24
+1930,Johannesburg,14.75,8.63
+1931,Johannesburg,15.17,8.72
+1932,Johannesburg,15.40,8.71
+1933,Johannesburg,15.21,8.34
+1934,Johannesburg,15.17,8.63
+1935,Johannesburg,14.56,8.52
+1936,Johannesburg,14.67,8.55
+1937,Johannesburg,15.08,8.70
+1938,Johannesburg,15.28,8.86
+1939,Johannesburg,14.57,8.76
+1940,Johannesburg,15.32,8.76
+1941,Johannesburg,15.90,8.77
+1942,Johannesburg,15.30,8.73
+1943,Johannesburg,14.67,8.76
+1944,Johannesburg,15.26,8.85
+1945,Johannesburg,15.18,8.58
+1946,Johannesburg,15.33,8.68
+1947,Johannesburg,15.33,8.80
+1948,Johannesburg,15.14,8.75
+1949,Johannesburg,15.35,8.59
+1950,Johannesburg,15.35,8.37
+1951,Johannesburg,14.88,8.63
+1952,Johannesburg,15.27,8.64
+1953,Johannesburg,14.76,8.87
+1954,Johannesburg,14.91,8.56
+1955,Johannesburg,14.44,8.63
+1956,Johannesburg,15.14,8.28
+1957,Johannesburg,15.27,8.73
+1958,Johannesburg,15.54,8.77
+1959,Johannesburg,15.07,8.73
+1960,Johannesburg,15.14,8.58
+1961,Johannesburg,15.39,8.80
+1962,Johannesburg,15.57,8.75
+1963,Johannesburg,15.09,8.86
+1964,Johannesburg,15.15,8.41
+1965,Johannesburg,15.28,8.53
+1966,Johannesburg,15.64,8.60
+1967,Johannesburg,14.88,8.70
+1968,Johannesburg,15.09,8.52
+1969,Johannesburg,15.66,8.60
+1970,Johannesburg,15.83,8.70
+1971,Johannesburg,15.15,8.60
+1972,Johannesburg,15.31,8.50
+1973,Johannesburg,15.34,8.95
+1974,Johannesburg,14.93,8.47
+1975,Johannesburg,14.99,8.74
+1976,Johannesburg,14.62,8.35
+1977,Johannesburg,15.57,8.85
+1978,Johannesburg,15.30,8.69
+1979,Johannesburg,15.65,8.73
+1980,Johannesburg,15.08,8.98
+1981,Johannesburg,14.81,9.17
+1982,Johannesburg,15.69,8.64
+1983,Johannesburg,16.17,9.03
+1984,Johannesburg,15.68,8.69
+1985,Johannesburg,15.81,8.66
+1986,Johannesburg,15.72,8.83
+1987,Johannesburg,15.85,8.99
+1988,Johannesburg,15.43,9.20
+1989,Johannesburg,15.14,8.92
+1990,Johannesburg,15.56,9.23
+1991,Johannesburg,15.56,9.18
+1992,Johannesburg,16.48,8.84
+1993,Johannesburg,16.01,8.87
+1994,Johannesburg,15.10,9.04
+1995,Johannesburg,15.77,9.35
+1996,Johannesburg,15.23,9.04
+1997,Johannesburg,15.38,9.20
+1998,Johannesburg,16.11,9.52
+1999,Johannesburg,16.09,9.29
+2000,Johannesburg,15.13,9.20
+2001,Johannesburg,15.68,9.41
+2002,Johannesburg,15.88,9.57
+2003,Johannesburg,16.34,9.53
+2004,Johannesburg,15.49,9.32
+2005,Johannesburg,16.29,9.70
+2006,Johannesburg,15.26,9.53
+2007,Johannesburg,15.90,9.73
+2008,Johannesburg,15.75,9.43
+2009,Johannesburg,15.44,9.51
+2010,Johannesburg,16.11,9.70
+2011,Johannesburg,15.49,9.52
+2012,Johannesburg,15.89,9.51
+2013,Johannesburg,14.98,9.61
+1750,New York,10.07,8.72
+1751,New York,10.79,7.98
+1752,New York,2.81,5.78
+1753,New York,9.52,8.39
+1754,New York,9.88,8.47
+1755,New York,6.61,8.36
+1756,New York,9.94,8.85
+1757,New York,8.89,9.02
+1758,New York,8.15,6.74
+1759,New York,9.01,7.99
+1760,New York,7.73,7.19
+1761,New York,10.18,8.77
+1762,New York,9.55,8.61
+1763,New York,7.23,7.50
+1764,New York,9.55,8.40
+1765,New York,8.96,8.25
+1766,New York,10.09,8.41
+1767,New York,8.52,8.22
+1768,New York,8.67,6.78
+1769,New York,9.10,7.69
+1770,New York,9.04,7.69
+1771,New York,10.18,7.85
+1772,New York,9.64,8.19
+1773,New York,10.08,8.22
+1774,New York,9.52,8.77
+1775,New York,10.24,9.18
+1776,New York,9.13,8.30
+1777,New York,8.77,8.26
+1778,New York,6.89,8.54
+1779,New York,0.25,8.98
+1780,New York,,9.43
+1781,New York,9.79,8.10
+1782,New York,9.15,7.90
+1783,New York,8.81,7.68
+1784,New York,8.40,7.86
+1785,New York,8.49,7.36
+1786,New York,8.98,8.26
+1787,New York,8.97,8.03
+1788,New York,9.77,8.45
+1789,New York,9.42,8.33
+1790,New York,9.39,7.98
+1791,New York,9.37,8.23
+1792,New York,8.72,8.09
+1793,New York,9.88,8.23
+1794,New York,9.83,8.53
+1795,New York,9.21,8.35
+1796,New York,8.97,8.27
+1797,New York,8.85,8.51
+1798,New York,9.71,8.67
+1799,New York,9.19,8.51
+1800,New York,9.58,8.48
+1801,New York,10.00,8.59
+1802,New York,10.29,8.58
+1803,New York,10.07,8.50
+1804,New York,9.69,8.84
+1805,New York,10.43,8.56
+1806,New York,9.38,8.43
+1807,New York,9.17,8.28
+1808,New York,9.57,7.63
+1809,New York,8.87,7.08
+1810,New York,9.35,6.92
+1811,New York,9.43,6.86
+1812,New York,7.80,7.05
+1813,New York,8.93,7.74
+1814,New York,8.70,7.59
+1815,New York,8.27,7.24
+1816,New York,7.92,6.94
+1817,New York,7.78,6.98
+1818,New York,8.13,7.83
+1819,New York,9.07,7.37
+1820,New York,8.98,7.62
+1821,New York,8.53,8.09
+1822,New York,9.84,8.19
+1823,New York,8.64,7.72
+1824,New York,9.29,8.55
+1825,New York,10.21,8.39
+1826,New York,9.92,8.36
+1827,New York,9.26,8.81
+1828,New York,10.70,8.17
+1829,New York,9.17,7.94
+1830,New York,10.32,8.52
+1831,New York,9.07,7.64
+1832,New York,9.15,7.45
+1833,New York,9.15,8.01
+1834,New York,9.32,8.15
+1835,New York,8.48,7.39
+1836,New York,7.51,7.70
+1837,New York,8.12,7.38
+1838,New York,8.73,7.51
+1839,New York,9.17,7.63
+1840,New York,9.27,7.80
+1841,New York,9.00,7.69
+1842,New York,9.41,8.02
+1843,New York,8.49,8.17
+1844,New York,9.12,7.65
+1845,New York,9.49,7.85
+1846,New York,9.66,8.55
+1847,New York,9.30,8.09
+1848,New York,9.54,7.98
+1849,New York,8.83,7.98
+1850,New York,9.10,7.90
+1851,New York,9.26,8.18
+1852,New York,8.98,8.10
+1853,New York,9.68,8.04
+1854,New York,9.56,8.21
+1855,New York,9.11,8.11
+1856,New York,8.20,8.00
+1857,New York,8.52,7.76
+1858,New York,9.13,8.10
+1859,New York,9.17,8.25
+1860,New York,9.18,7.96
+1861,New York,9.47,7.85
+1862,New York,9.00,7.56
+1863,New York,9.09,8.11
+1864,New York,9.29,7.98
+1865,New York,9.64,8.18
+1866,New York,8.95,8.29
+1867,New York,8.59,8.44
+1868,New York,7.95,8.25
+1869,New York,8.85,8.43
+1870,New York,10.04,8.20
+1871,New York,8.94,8.12
+1872,New York,8.61,8.19
+1873,New York,8.44,8.35
+1874,New York,9.06,8.43
+1875,New York,7.74,7.86
+1876,New York,9.35,8.08
+1877,New York,10.15,8.54
+1878,New York,10.38,8.83
+1879,New York,9.37,8.17
+1880,New York,9.99,8.12
+1881,New York,9.77,8.27
+1882,New York,9.22,8.13
+1883,New York,8.59,7.98
+1884,New York,9.36,7.77
+1885,New York,8.37,7.92
+1886,New York,8.90,7.95
+1887,New York,9.10,7.91
+1888,New York,8.31,8.09
+1889,New York,9.86,8.32
+1890,New York,9.62,7.97
+1891,New York,10.00,8.02
+1892,New York,9.15,8.07
+1893,New York,8.68,8.06
+1894,New York,9.95,8.16
+1895,New York,9.22,8.15
+1896,New York,9.51,8.21
+1897,New York,9.63,8.29
+1898,New York,10.24,8.18
+1899,New York,9.51,8.40
+1900,New York,10.40,8.50
+1901,New York,9.29,8.54
+1902,New York,9.43,8.30
+1903,New York,9.32,8.22
+1904,New York,7.87,8.09
+1905,New York,9.10,8.23
+1906,New York,9.90,8.38
+1907,New York,8.49,7.95
+1908,New York,9.87,8.19
+1909,New York,9.51,8.18
+1910,New York,9.55,8.22
+1911,New York,9.91,8.18
+1912,New York,9.24,8.17
+1913,New York,10.76,8.30
+1914,New York,9.02,8.59
+1915,New York,9.85,8.59
+1916,New York,9.10,8.23
+1917,New York,8.24,8.02
+1918,New York,9.51,8.13
+1919,New York,10.05,8.38
+1920,New York,9.19,8.36
+1921,New York,10.91,8.57
+1922,New York,10.04,8.41
+1923,New York,9.51,8.42
+1924,New York,8.85,8.51
+1925,New York,9.72,8.53
+1926,New York,8.54,8.73
+1927,New York,9.70,8.52
+1928,New York,9.82,8.63
+1929,New York,9.97,8.24
+1930,New York,10.22,8.63
+1931,New York,11.03,8.72
+1932,New York,10.44,8.71
+1933,New York,10.18,8.34
+1934,New York,9.48,8.63
+1935,New York,9.48,8.52
+1936,New York,9.73,8.55
+1937,New York,10.16,8.70
+1938,New York,10.42,8.86
+1939,New York,10.07,8.76
+1940,New York,8.53,8.76
+1941,New York,10.19,8.77
+1942,New York,9.96,8.73
+1943,New York,9.58,8.76
+1944,New York,10.01,8.85
+1945,New York,9.94,8.58
+1946,New York,10.63,8.68
+1947,New York,9.91,8.80
+1948,New York,9.83,8.75
+1949,New York,11.39,8.59
+1950,New York,9.72,8.37
+1951,New York,10.27,8.63
+1952,New York,10.52,8.64
+1953,New York,11.17,8.87
+1954,New York,10.31,8.56
+1955,New York,10.39,8.63
+1956,New York,9.75,8.28
+1957,New York,10.50,8.73
+1958,New York,9.16,8.77
+1959,New York,10.77,8.73
+1960,New York,9.76,8.58
+1961,New York,10.03,8.80
+1962,New York,9.32,8.75
+1963,New York,9.32,8.86
+1964,New York,9.96,8.41
+1965,New York,9.63,8.53
+1966,New York,9.75,8.60
+1967,New York,9.30,8.70
+1968,New York,9.75,8.52
+1969,New York,9.76,8.60
+1970,New York,9.77,8.70
+1971,New York,10.01,8.60
+1972,New York,9.49,8.50
+1973,New York,10.96,8.95
+1974,New York,10.08,8.47
+1975,New York,10.56,8.74
+1976,New York,9.53,8.35
+1977,New York,9.96,8.85
+1978,New York,9.17,8.69
+1979,New York,10.02,8.73
+1980,New York,9.86,8.98
+1981,New York,9.95,9.17
+1982,New York,9.78,8.64
+1983,New York,10.51,9.03
+1984,New York,10.26,8.69
+1985,New York,10.26,8.66
+1986,New York,10.15,8.83
+1987,New York,10.32,8.99
+1988,New York,9.93,9.20
+1989,New York,9.66,8.92
+1990,New York,11.32,9.23
+1991,New York,11.36,9.18
+1992,New York,9.57,8.84
+1993,New York,10.04,8.87
+1994,New York,10.00,9.04
+1995,New York,10.24,9.35
+1996,New York,9.81,9.04
+1997,New York,10.00,9.20
+1998,New York,11.82,9.52
+1999,New York,11.16,9.29
+2000,New York,9.97,9.20
+2001,New York,10.93,9.41
+2002,New York,11.25,9.57
+2003,New York,9.84,9.53
+2004,New York,10.39,9.32
+2005,New York,10.68,9.70
+2006,New York,11.52,9.53
+2007,New York,10.63,9.73
+2008,New York,10.64,9.43
+2009,New York,10.14,9.51
+2010,New York,11.36,9.70
+2011,New York,11.27,9.52
+2012,New York,11.97,9.51
+2013,New York,12.16,9.61
+1750,Prague,9.11,8.72
+1751,Prague,9.13,7.98
+1752,Prague,3.94,5.78
+1753,Prague,8.08,8.39
+1754,Prague,7.85,8.47
+1755,Prague,7.62,8.36
+1756,Prague,8.75,8.85
+1757,Prague,8.33,9.02
+1758,Prague,7.49,6.74
+1759,Prague,8.35,7.99
+1760,Prague,8.37,7.19
+1761,Prague,8.73,8.77
+1762,Prague,7.96,8.61
+1763,Prague,7.87,7.50
+1764,Prague,8.34,8.40
+1765,Prague,7.99,8.25
+1766,Prague,8.04,8.41
+1767,Prague,7.46,8.22
+1768,Prague,7.23,6.78
+1769,Prague,7.81,7.69
+1770,Prague,7.83,7.69
+1771,Prague,6.96,7.85
+1772,Prague,8.87,8.19
+1773,Prague,8.81,8.22
+1774,Prague,8.18,8.77
+1775,Prague,9.37,9.18
+1776,Prague,7.64,8.30
+1777,Prague,7.75,8.26
+1778,Prague,8.99,8.54
+1779,Prague,9.48,8.98
+1780,Prague,7.92,9.43
+1781,Prague,9.22,8.10
+1782,Prague,7.93,7.90
+1783,Prague,9.01,7.68
+1784,Prague,7.16,7.86
+1785,Prague,6.77,7.36
+1786,Prague,6.79,8.26
+1787,Prague,8.58,8.03
+1788,Prague,7.74,8.45
+1789,Prague,8.26,8.33
+1790,Prague,8.33,7.98
+1791,Prague,9.00,8.23
+1792,Prague,8.31,8.09
+1793,Prague,8.55,8.23
+1794,Prague,9.44,8.53
+1795,Prague,8.13,8.35
+1796,Prague,8.19,8.27
+1797,Prague,9.39,8.51
+1798,Prague,8.63,8.67
+1799,Prague,6.14,8.51
+1800,Prague,8.24,8.48
+1801,Prague,9.11,8.59
+1802,Prague,8.51,8.58
+1803,Prague,7.45,8.50
+1804,Prague,7.79,8.84
+1805,Prague,6.38,8.56
+1806,Prague,9.18,8.43
+1807,Prague,8.91,8.28
+1808,Prague,7.37,7.63
+1809,Prague,8.05,7.08
+1810,Prague,7.86,6.92
+1811,Prague,9.28,6.86
+1812,Prague,6.79,7.05
+1813,Prague,7.77,7.74
+1814,Prague,6.77,7.59
+1815,Prague,7.69,7.24
+1816,Prague,7.18,6.94
+1817,Prague,8.08,6.98
+1818,Prague,8.34,7.83
+1819,Prague,8.60,7.37
+1820,Prague,7.34,7.62
+1821,Prague,8.17,8.09
+1822,Prague,9.33,8.19
+1823,Prague,7.87,7.72
+1824,Prague,8.76,8.55
+1825,Prague,8.72,8.39
+1826,Prague,8.35,8.36
+1827,Prague,8.26,8.81
+1828,Prague,8.38,8.17
+1829,Prague,5.77,7.94
+1830,Prague,7.51,8.52
+1831,Prague,8.19,7.64
+1832,Prague,7.66,7.45
+1833,Prague,8.24,8.01
+1834,Prague,9.67,8.15
+1835,Prague,8.01,7.39
+1836,Prague,8.27,7.70
+1837,Prague,7.19,7.38
+1838,Prague,6.22,7.51
+1839,Prague,8.14,7.63
+1840,Prague,6.76,7.80
+1841,Prague,8.61,7.69
+1842,Prague,7.67,8.02
+1843,Prague,8.53,8.17
+1844,Prague,7.32,7.65
+1845,Prague,7.45,7.85
+1846,Prague,9.20,8.55
+1847,Prague,7.42,8.09
+1848,Prague,8.22,7.98
+1849,Prague,7.44,7.98
+1850,Prague,7.64,7.90
+1851,Prague,7.69,8.18
+1852,Prague,8.88,8.10
+1853,Prague,6.84,8.04
+1854,Prague,7.85,8.21
+1855,Prague,6.60,8.11
+1856,Prague,7.88,8.00
+1857,Prague,8.32,7.76
+1858,Prague,7.06,8.10
+1859,Prague,8.92,8.25
+1860,Prague,7.29,7.96
+1861,Prague,8.16,7.85
+1862,Prague,8.58,7.56
+1863,Prague,9.26,8.11
+1864,Prague,6.27,7.98
+1865,Prague,8.10,8.18
+1866,Prague,8.88,8.29
+1867,Prague,7.97,8.44
+1868,Prague,9.75,8.25
+1869,Prague,8.40,8.43
+1870,Prague,6.71,8.20
+1871,Prague,6.29,8.12
+1872,Prague,9.29,8.19
+1873,Prague,8.65,8.35
+1874,Prague,8.10,8.43
+1875,Prague,7.25,7.86
+1876,Prague,7.99,8.08
+1877,Prague,8.26,8.54
+1878,Prague,8.51,8.83
+1879,Prague,6.85,8.17
+1880,Prague,8.37,8.12
+1881,Prague,7.14,8.27
+1882,Prague,8.50,8.13
+1883,Prague,7.82,7.98
+1884,Prague,8.41,7.77
+1885,Prague,8.03,7.92
+1886,Prague,8.14,7.95
+1887,Prague,7.18,7.91
+1888,Prague,7.14,8.09
+1889,Prague,7.59,8.32
+1890,Prague,7.64,7.97
+1891,Prague,7.66,8.02
+1892,Prague,7.78,8.07
+1893,Prague,7.84,8.06
+1894,Prague,8.23,8.16
+1895,Prague,7.44,8.15
+1896,Prague,7.65,8.21
+1897,Prague,8.09,8.29
+1898,Prague,8.96,8.18
+1899,Prague,8.03,8.40
+1900,Prague,8.50,8.50
+1901,Prague,7.72,8.54
+1902,Prague,7.16,8.30
+1903,Prague,8.56,8.22
+1904,Prague,8.60,8.09
+1905,Prague,8.19,8.23
+1906,Prague,8.50,8.38
+1907,Prague,7.99,7.95
+1908,Prague,7.60,8.19
+1909,Prague,7.53,8.18
+1910,Prague,8.52,8.22
+1911,Prague,9.10,8.18
+1912,Prague,7.64,8.17
+1913,Prague,8.42,8.30
+1914,Prague,8.45,8.59
+1915,Prague,8.00,8.59
+1916,Prague,8.84,8.23
+1917,Prague,7.66,8.02
+1918,Prague,8.85,8.13
+1919,Prague,7.43,8.38
+1920,Prague,8.73,8.36
+1921,Prague,9.09,8.57
+1922,Prague,7.08,8.41
+1923,Prague,8.08,8.42
+1924,Prague,7.53,8.51
+1925,Prague,8.45,8.53
+1926,Prague,8.87,8.73
+1927,Prague,8.20,8.52
+1928,Prague,8.44,8.63
+1929,Prague,7.32,8.24
+1930,Prague,8.88,8.63
+1931,Prague,7.64,8.72
+1932,Prague,8.41,8.71
+1933,Prague,7.47,8.34
+1934,Prague,9.93,8.63
+1935,Prague,8.52,8.52
+1936,Prague,8.56,8.55
+1937,Prague,8.77,8.70
+1938,Prague,8.84,8.86
+1939,Prague,8.51,8.76
+1940,Prague,6.43,8.76
+1941,Prague,6.97,8.77
+1942,Prague,7.25,8.73
+1943,Prague,9.02,8.76
+1944,Prague,8.28,8.85
+1945,Prague,8.88,8.58
+1946,Prague,8.46,8.68
+1947,Prague,8.34,8.80
+1948,Prague,9.15,8.75
+1949,Prague,9.22,8.59
+1950,Prague,8.82,8.37
+1951,Prague,9.10,8.63
+1952,Prague,8.12,8.64
+1953,Prague,9.32,8.87
+1954,Prague,7.77,8.56
+1955,Prague,7.68,8.63
+1956,Prague,6.87,8.28
+1957,Prague,8.77,8.73
+1958,Prague,8.42,8.77
+1959,Prague,9.08,8.73
+1960,Prague,8.47,8.58
+1961,Prague,9.13,8.80
+1962,Prague,7.47,8.75
+1963,Prague,7.50,8.86
+1964,Prague,8.19,8.41
+1965,Prague,7.65,8.53
+1966,Prague,8.94,8.60
+1967,Prague,9.26,8.70
+1968,Prague,8.48,8.52
+1969,Prague,7.95,8.60
+1970,Prague,7.87,8.70
+1971,Prague,8.63,8.60
+1972,Prague,8.26,8.50
+1973,Prague,8.48,8.95
+1974,Prague,9.16,8.47
+1975,Prague,9.26,8.74
+1976,Prague,8.59,8.35
+1977,Prague,8.84,8.85
+1978,Prague,8.05,8.69
+1979,Prague,8.19,8.73
+1980,Prague,7.54,8.98
+1981,Prague,8.51,9.17
+1982,Prague,9.23,8.64
+1983,Prague,9.41,9.03
+1984,Prague,8.16,8.69
+1985,Prague,7.74,8.66
+1986,Prague,8.29,8.83
+1987,Prague,7.61,8.99
+1988,Prague,9.19,9.20
+1989,Prague,9.78,8.92
+1990,Prague,9.76,9.23
+1991,Prague,8.45,9.18
+1992,Prague,9.72,8.84
+1993,Prague,8.76,8.87
+1994,Prague,9.97,9.04
+1995,Prague,9.02,9.35
+1996,Prague,7.28,9.04
+1997,Prague,8.82,9.20
+1998,Prague,9.36,9.52
+1999,Prague,9.64,9.29
+2000,Prague,10.30,9.20
+2001,Prague,8.98,9.41
+2002,Prague,9.73,9.57
+2003,Prague,9.51,9.53
+2004,Prague,9.17,9.32
+2005,Prague,9.12,9.70
+2006,Prague,9.67,9.53
+2007,Prague,10.25,9.73
+2008,Prague,9.91,9.43
+2009,Prague,9.47,9.51
+2010,Prague,8.13,9.70
+2011,Prague,9.84,9.52
+2012,Prague,9.51,9.51
+2013,Prague,9.57,9.61
+1832,Rio De Janeiro,23.05,7.45
+1833,Rio De Janeiro,24.11,8.01
+1834,Rio De Janeiro,23.27,8.15
+1835,Rio De Janeiro,22.73,7.39
+1836,Rio De Janeiro,22.91,7.70
+1837,Rio De Janeiro,22.29,7.38
+1838,Rio De Janeiro,22.81,7.51
+1839,Rio De Janeiro,22.54,7.63
+1840,Rio De Janeiro,23.32,7.80
+1841,Rio De Janeiro,22.97,7.69
+1842,Rio De Janeiro,23.41,8.02
+1843,Rio De Janeiro,23.55,8.17
+1844,Rio De Janeiro,,7.65
+1845,Rio De Janeiro,,7.85
+1846,Rio De Janeiro,,8.55
+1847,Rio De Janeiro,,8.09
+1848,Rio De Janeiro,,7.98
+1849,Rio De Janeiro,,7.98
+1850,Rio De Janeiro,,7.90
+1851,Rio De Janeiro,23.53,8.18
+1852,Rio De Janeiro,23.74,8.10
+1853,Rio De Janeiro,23.76,8.04
+1854,Rio De Janeiro,23.83,8.21
+1855,Rio De Janeiro,23.89,8.11
+1856,Rio De Janeiro,22.83,8.00
+1857,Rio De Janeiro,23.46,7.76
+1858,Rio De Janeiro,22.37,8.10
+1859,Rio De Janeiro,23.04,8.25
+1860,Rio De Janeiro,23.91,7.96
+1861,Rio De Janeiro,23.04,7.85
+1862,Rio De Janeiro,23.04,7.56
+1863,Rio De Janeiro,22.95,8.11
+1864,Rio De Janeiro,23.02,7.98
+1865,Rio De Janeiro,22.89,8.18
+1866,Rio De Janeiro,23.10,8.29
+1867,Rio De Janeiro,23.26,8.44
+1868,Rio De Janeiro,24.32,8.25
+1869,Rio De Janeiro,24.20,8.43
+1870,Rio De Janeiro,24.22,8.20
+1871,Rio De Janeiro,23.84,8.12
+1872,Rio De Janeiro,23.75,8.19
+1873,Rio De Janeiro,23.94,8.35
+1874,Rio De Janeiro,23.23,8.43
+1875,Rio De Janeiro,22.85,7.86
+1876,Rio De Janeiro,23.05,8.08
+1877,Rio De Janeiro,23.80,8.54
+1878,Rio De Janeiro,24.30,8.83
+1879,Rio De Janeiro,22.84,8.17
+1880,Rio De Janeiro,24.01,8.12
+1881,Rio De Janeiro,23.29,8.27
+1882,Rio De Janeiro,22.65,8.13
+1883,Rio De Janeiro,22.98,7.98
+1884,Rio De Janeiro,22.85,7.77
+1885,Rio De Janeiro,23.75,7.92
+1886,Rio De Janeiro,22.94,7.95
+1887,Rio De Janeiro,23.49,7.91
+1888,Rio De Janeiro,23.82,8.09
+1889,Rio De Janeiro,24.17,8.32
+1890,Rio De Janeiro,23.38,7.97
+1891,Rio De Janeiro,23.55,8.02
+1892,Rio De Janeiro,23.40,8.07
+1893,Rio De Janeiro,22.68,8.06
+1894,Rio De Janeiro,23.62,8.16
+1895,Rio De Janeiro,23.36,8.15
+1896,Rio De Janeiro,23.35,8.21
+1897,Rio De Janeiro,23.31,8.29
+1898,Rio De Janeiro,23.54,8.18
+1899,Rio De Janeiro,23.95,8.40
+1900,Rio De Janeiro,23.48,8.50
+1901,Rio De Janeiro,23.07,8.54
+1902,Rio De Janeiro,23.99,8.30
+1903,Rio De Janeiro,23.73,8.22
+1904,Rio De Janeiro,23.17,8.09
+1905,Rio De Janeiro,23.84,8.23
+1906,Rio De Janeiro,23.74,8.38
+1907,Rio De Janeiro,23.36,7.95
+1908,Rio De Janeiro,23.57,8.19
+1909,Rio De Janeiro,23.33,8.18
+1910,Rio De Janeiro,23.31,8.22
+1911,Rio De Janeiro,23.36,8.18
+1912,Rio De Janeiro,23.48,8.17
+1913,Rio De Janeiro,23.72,8.30
+1914,Rio De Janeiro,24.28,8.59
+1915,Rio De Janeiro,24.06,8.59
+1916,Rio De Janeiro,23.52,8.23
+1917,Rio De Janeiro,22.62,8.02
+1918,Rio De Janeiro,23.26,8.13
+1919,Rio De Janeiro,23.73,8.38
+1920,Rio De Janeiro,23.64,8.36
+1921,Rio De Janeiro,23.41,8.57
+1922,Rio De Janeiro,23.91,8.41
+1923,Rio De Janeiro,23.85,8.42
+1924,Rio De Janeiro,23.25,8.51
+1925,Rio De Janeiro,23.49,8.53
+1926,Rio De Janeiro,23.83,8.73
+1927,Rio De Janeiro,23.67,8.52
+1928,Rio De Janeiro,24.09,8.63
+1929,Rio De Janeiro,23.80,8.24
+1930,Rio De Janeiro,24.04,8.63
+1931,Rio De Janeiro,23.54,8.72
+1932,Rio De Janeiro,24.23,8.71
+1933,Rio De Janeiro,23.01,8.34
+1934,Rio De Janeiro,23.79,8.63
+1935,Rio De Janeiro,23.89,8.52
+1936,Rio De Janeiro,24.02,8.55
+1937,Rio De Janeiro,23.61,8.70
+1938,Rio De Janeiro,23.92,8.86
+1939,Rio De Janeiro,23.95,8.76
+1940,Rio De Janeiro,24.17,8.76
+1941,Rio De Janeiro,24.22,8.77
+1942,Rio De Janeiro,23.86,8.73
+1943,Rio De Janeiro,23.54,8.76
+1944,Rio De Janeiro,23.85,8.85
+1945,Rio De Janeiro,23.61,8.58
+1946,Rio De Janeiro,24.34,8.68
+1947,Rio De Janeiro,23.63,8.80
+1948,Rio De Janeiro,24.02,8.75
+1949,Rio De Janeiro,23.56,8.59
+1950,Rio De Janeiro,24.03,8.37
+1951,Rio De Janeiro,23.25,8.63
+1952,Rio De Janeiro,23.97,8.64
+1953,Rio De Janeiro,24.01,8.87
+1954,Rio De Janeiro,24.22,8.56
+1955,Rio De Janeiro,23.62,8.63
+1956,Rio De Janeiro,23.47,8.28
+1957,Rio De Janeiro,23.97,8.73
+1958,Rio De Janeiro,24.62,8.77
+1959,Rio De Janeiro,24.61,8.73
+1960,Rio De Janeiro,23.80,8.58
+1961,Rio De Janeiro,24.64,8.80
+1962,Rio De Janeiro,23.44,8.75
+1963,Rio De Janeiro,24.29,8.86
+1964,Rio De Janeiro,23.47,8.41
+1965,Rio De Janeiro,24.30,8.53
+1966,Rio De Janeiro,24.36,8.60
+1967,Rio De Janeiro,24.20,8.70
+1968,Rio De Janeiro,23.30,8.52
+1969,Rio De Janeiro,24.15,8.60
+1970,Rio De Janeiro,24.06,8.70
+1971,Rio De Janeiro,24.00,8.60
+1972,Rio De Janeiro,24.41,8.50
+1973,Rio De Janeiro,24.38,8.95
+1974,Rio De Janeiro,23.92,8.47
+1975,Rio De Janeiro,23.57,8.74
+1976,Rio De Janeiro,23.77,8.35
+1977,Rio De Janeiro,24.64,8.85
+1978,Rio De Janeiro,24.01,8.69
+1979,Rio De Janeiro,23.61,8.73
+1980,Rio De Janeiro,24.35,8.98
+1981,Rio De Janeiro,24.02,9.17
+1982,Rio De Janeiro,24.02,8.64
+1983,Rio De Janeiro,24.14,9.03
+1984,Rio De Janeiro,24.62,8.69
+1985,Rio De Janeiro,24.10,8.66
+1986,Rio De Janeiro,24.75,8.83
+1987,Rio De Janeiro,24.55,8.99
+1988,Rio De Janeiro,24.00,9.20
+1989,Rio De Janeiro,24.07,8.92
+1990,Rio De Janeiro,24.64,9.23
+1991,Rio De Janeiro,24.25,9.18
+1992,Rio De Janeiro,24.24,8.84
+1993,Rio De Janeiro,24.65,8.87
+1994,Rio De Janeiro,24.71,9.04
+1995,Rio De Janeiro,24.77,9.35
+1996,Rio De Janeiro,24.28,9.04
+1997,Rio De Janeiro,24.71,9.20
+1998,Rio De Janeiro,24.78,9.52
+1999,Rio De Janeiro,24.01,9.29
+2000,Rio De Janeiro,24.36,9.20
+2001,Rio De Janeiro,24.99,9.41
+2002,Rio De Janeiro,25.18,9.57
+2003,Rio De Janeiro,24.90,9.53
+2004,Rio De Janeiro,24.24,9.32
+2005,Rio De Janeiro,24.79,9.70
+2006,Rio De Janeiro,24.57,9.53
+2007,Rio De Janeiro,24.78,9.73
+2008,Rio De Janeiro,24.26,9.43
+2009,Rio De Janeiro,24.98,9.51
+2010,Rio De Janeiro,24.95,9.70
+2011,Rio De Janeiro,24.32,9.52
+2012,Rio De Janeiro,24.84,9.51
+2013,Rio De Janeiro,25.19,9.61
+1841,Shanghai,14.87,7.69
+1842,Shanghai,15.43,8.02
+1843,Shanghai,15.53,8.17
+1844,Shanghai,15.33,7.65
+1845,Shanghai,15.43,7.85
+1846,Shanghai,15.85,8.55
+1847,Shanghai,15.78,8.09
+1848,Shanghai,15.02,7.98
+1849,Shanghai,15.44,7.98
+1850,Shanghai,15.60,7.90
+1851,Shanghai,15.22,8.18
+1852,Shanghai,15.44,8.10
+1853,Shanghai,15.79,8.04
+1854,Shanghai,15.99,8.21
+1855,Shanghai,15.84,8.11
+1856,Shanghai,15.55,8.00
+1857,Shanghai,15.93,7.76
+1858,Shanghai,15.49,8.10
+1859,Shanghai,15.64,8.25
+1860,Shanghai,15.05,7.96
+1861,Shanghai,15.29,7.85
+1862,Shanghai,14.47,7.56
+1863,Shanghai,15.20,8.11
+1864,Shanghai,14.85,7.98
+1865,Shanghai,15.72,8.18
+1866,Shanghai,15.54,8.29
+1867,Shanghai,15.95,8.44
+1868,Shanghai,15.86,8.25
+1869,Shanghai,16.09,8.43
+1870,Shanghai,15.95,8.20
+1871,Shanghai,16.31,8.12
+1872,Shanghai,16.12,8.19
+1873,Shanghai,15.74,8.35
+1874,Shanghai,15.68,8.43
+1875,Shanghai,15.47,7.86
+1876,Shanghai,15.60,8.08
+1877,Shanghai,15.43,8.54
+1878,Shanghai,15.46,8.83
+1879,Shanghai,16.13,8.17
+1880,Shanghai,15.28,8.12
+1881,Shanghai,15.63,8.27
+1882,Shanghai,15.54,8.13
+1883,Shanghai,15.41,7.98
+1884,Shanghai,14.92,7.77
+1885,Shanghai,14.91,7.92
+1886,Shanghai,15.06,7.95
+1887,Shanghai,15.65,7.91
+1888,Shanghai,15.87,8.09
+1889,Shanghai,15.30,8.32
+1890,Shanghai,16.22,7.97
+1891,Shanghai,15.72,8.02
+1892,Shanghai,15.43,8.07
+1893,Shanghai,15.13,8.06
+1894,Shanghai,16.23,8.16
+1895,Shanghai,15.27,8.15
+1896,Shanghai,15.73,8.21
+1897,Shanghai,15.60,8.29
+1898,Shanghai,16.33,8.18
+1899,Shanghai,15.84,8.40
+1900,Shanghai,15.80,8.50
+1901,Shanghai,15.26,8.54
+1902,Shanghai,16.27,8.30
+1903,Shanghai,15.56,8.22
+1904,Shanghai,15.64,8.09
+1905,Shanghai,15.50,8.23
+1906,Shanghai,15.50,8.38
+1907,Shanghai,15.57,7.95
+1908,Shanghai,15.67,8.19
+1909,Shanghai,15.84,8.18
+1910,Shanghai,15.26,8.22
+1911,Shanghai,15.48,8.18
+1912,Shanghai,15.61,8.17
+1913,Shanghai,15.36,8.30
+1914,Shanghai,16.52,8.59
+1915,Shanghai,16.11,8.59
+1916,Shanghai,15.75,8.23
+1917,Shanghai,15.09,8.02
+1918,Shanghai,15.55,8.13
+1919,Shanghai,15.93,8.38
+1920,Shanghai,16.02,8.36
+1921,Shanghai,15.58,8.57
+1922,Shanghai,16.11,8.41
+1923,Shanghai,15.77,8.42
+1924,Shanghai,15.72,8.51
+1925,Shanghai,15.65,8.53
+1926,Shanghai,16.04,8.73
+1927,Shanghai,16.13,8.52
+1928,Shanghai,16.03,8.63
+1929,Shanghai,15.96,8.24
+1930,Shanghai,16.06,8.63
+1931,Shanghai,15.64,8.72
+1932,Shanghai,16.04,8.71
+1933,Shanghai,15.91,8.34
+1934,Shanghai,15.85,8.63
+1935,Shanghai,16.33,8.52
+1936,Shanghai,15.28,8.55
+1937,Shanghai,16.09,8.70
+1938,Shanghai,16.32,8.86
+1939,Shanghai,16.13,8.76
+1940,Shanghai,16.25,8.76
+1941,Shanghai,16.39,8.77
+1942,Shanghai,16.21,8.73
+1943,Shanghai,16.01,8.76
+1944,Shanghai,16.14,8.85
+1945,Shanghai,15.91,8.58
+1946,Shanghai,16.70,8.68
+1947,Shanghai,15.87,8.80
+1948,Shanghai,16.49,8.75
+1949,Shanghai,16.56,8.59
+1950,Shanghai,16.40,8.37
+1951,Shanghai,16.18,8.63
+1952,Shanghai,16.10,8.64
+1953,Shanghai,17.03,8.87
+1954,Shanghai,15.85,8.56
+1955,Shanghai,16.06,8.63
+1956,Shanghai,15.61,8.28
+1957,Shanghai,15.60,8.73
+1958,Shanghai,16.07,8.77
+1959,Shanghai,16.54,8.73
+1960,Shanghai,16.60,8.58
+1961,Shanghai,17.02,8.80
+1962,Shanghai,16.11,8.75
+1963,Shanghai,16.20,8.86
+1964,Shanghai,16.58,8.41
+1965,Shanghai,16.06,8.53
+1966,Shanghai,16.50,8.60
+1967,Shanghai,16.05,8.70
+1968,Shanghai,16.13,8.52
+1969,Shanghai,15.64,8.60
+1970,Shanghai,15.82,8.70
+1971,Shanghai,16.22,8.60
+1972,Shanghai,15.71,8.50
+1973,Shanghai,16.32,8.95
+1974,Shanghai,15.93,8.47
+1975,Shanghai,16.48,8.74
+1976,Shanghai,15.71,8.35
+1977,Shanghai,16.17,8.85
+1978,Shanghai,16.67,8.69
+1979,Shanghai,16.54,8.73
+1980,Shanghai,15.57,8.98
+1981,Shanghai,15.91,9.17
+1982,Shanghai,16.20,8.64
+1983,Shanghai,16.22,9.03
+1984,Shanghai,15.80,8.69
+1985,Shanghai,16.04,8.66
+1986,Shanghai,15.94,8.83
+1987,Shanghai,16.19,8.99
+1988,Shanghai,16.17,9.20
+1989,Shanghai,16.24,8.92
+1990,Shanghai,17.26,9.23
+1991,Shanghai,16.14,9.18
+1992,Shanghai,16.14,8.84
+1993,Shanghai,15.98,8.87
+1994,Shanghai,17.34,9.04
+1995,Shanghai,16.36,9.35
+1996,Shanghai,16.21,9.04
+1997,Shanghai,16.76,9.20
+1998,Shanghai,17.56,9.52
+1999,Shanghai,16.68,9.29
+2000,Shanghai,16.90,9.20
+2001,Shanghai,16.93,9.41
+2002,Shanghai,17.22,9.57
+2003,Shanghai,16.74,9.53
+2004,Shanghai,17.24,9.32
+2005,Shanghai,16.75,9.70
+2006,Shanghai,17.41,9.53
+2007,Shanghai,17.63,9.73
+2008,Shanghai,16.72,9.43
+2009,Shanghai,17.01,9.51
+2010,Shanghai,16.75,9.70
+2011,Shanghai,16.52,9.52
+2012,Shanghai,16.47,9.51
+2013,Shanghai,17.86,9.61
+1841,Sydney,16.56,7.69
+1842,Sydney,16.57,8.02
+1843,Sydney,16.88,8.17
+1844,Sydney,16.22,7.65
+1845,Sydney,16.64,7.85
+1846,Sydney,17.07,8.55
+1847,Sydney,16.60,8.09
+1848,Sydney,16.25,7.98
+1849,Sydney,16.08,7.98
+1850,Sydney,16.51,7.90
+1851,Sydney,16.60,8.18
+1852,Sydney,16.39,8.10
+1853,Sydney,16.10,8.04
+1854,Sydney,16.48,8.21
+1855,Sydney,16.90,8.11
+1856,Sydney,16.76,8.00
+1857,Sydney,16.69,7.76
+1858,Sydney,17.04,8.10
+1859,Sydney,16.26,8.25
+1860,Sydney,16.33,7.96
+1861,Sydney,16.72,7.85
+1862,Sydney,16.90,7.56
+1863,Sydney,16.53,8.11
+1864,Sydney,16.37,7.98
+1865,Sydney,16.75,8.18
+1866,Sydney,16.96,8.29
+1867,Sydney,17.38,8.44
+1868,Sydney,16.96,8.25
+1869,Sydney,16.91,8.43
+1870,Sydney,16.84,8.20
+1871,Sydney,16.75,8.12
+1872,Sydney,16.71,8.19
+1873,Sydney,16.78,8.35
+1874,Sydney,16.75,8.43
+1875,Sydney,16.95,7.86
+1876,Sydney,17.30,8.08
+1877,Sydney,17.04,8.54
+1878,Sydney,17.24,8.83
+1879,Sydney,16.31,8.17
+1880,Sydney,16.65,8.12
+1881,Sydney,16.63,8.27
+1882,Sydney,17.03,8.13
+1883,Sydney,16.46,7.98
+1884,Sydney,16.86,7.77
+1885,Sydney,16.95,7.92
+1886,Sydney,16.88,7.95
+1887,Sydney,16.66,7.91
+1888,Sydney,16.72,8.09
+1889,Sydney,17.17,8.32
+1890,Sydney,16.77,7.97
+1891,Sydney,16.74,8.02
+1892,Sydney,16.60,8.07
+1893,Sydney,16.67,8.06
+1894,Sydney,16.83,8.16
+1895,Sydney,16.85,8.15
+1896,Sydney,16.85,8.21
+1897,Sydney,17.08,8.29
+1898,Sydney,17.04,8.18
+1899,Sydney,17.06,8.40
+1900,Sydney,16.98,8.50
+1901,Sydney,16.86,8.54
+1902,Sydney,16.98,8.30
+1903,Sydney,16.87,8.22
+1904,Sydney,16.58,8.09
+1905,Sydney,16.57,8.23
+1906,Sydney,16.92,8.38
+1907,Sydney,16.87,7.95
+1908,Sydney,16.67,8.19
+1909,Sydney,16.47,8.18
+1910,Sydney,16.93,8.22
+1911,Sydney,16.85,8.18
+1912,Sydney,17.10,8.17
+1913,Sydney,17.23,8.30
+1914,Sydney,17.87,8.59
+1915,Sydney,17.31,8.59
+1916,Sydney,16.97,8.23
+1917,Sydney,16.55,8.02
+1918,Sydney,16.56,8.13
+1919,Sydney,17.51,8.38
+1920,Sydney,16.65,8.36
+1921,Sydney,17.15,8.57
+1922,Sydney,17.22,8.41
+1923,Sydney,17.20,8.42
+1924,Sydney,16.65,8.51
+1925,Sydney,16.55,8.53
+1926,Sydney,17.25,8.73
+1927,Sydney,16.42,8.52
+1928,Sydney,17.40,8.63
+1929,Sydney,16.69,8.24
+1930,Sydney,17.10,8.63
+1931,Sydney,16.86,8.72
+1932,Sydney,16.97,8.71
+1933,Sydney,16.76,8.34
+1934,Sydney,16.89,8.63
+1935,Sydney,16.55,8.52
+1936,Sydney,16.79,8.55
+1937,Sydney,16.97,8.70
+1938,Sydney,17.39,8.86
+1939,Sydney,17.33,8.76
+1940,Sydney,17.64,8.76
+1941,Sydney,16.86,8.77
+1942,Sydney,17.30,8.73
+1943,Sydney,16.31,8.76
+1944,Sydney,16.99,8.85
+1945,Sydney,16.89,8.58
+1946,Sydney,17.04,8.68
+1947,Sydney,16.94,8.80
+1948,Sydney,16.42,8.75
+1949,Sydney,16.55,8.59
+1950,Sydney,17.14,8.37
+1951,Sydney,16.73,8.63
+1952,Sydney,16.83,8.64
+1953,Sydney,16.73,8.87
+1954,Sydney,16.93,8.56
+1955,Sydney,16.99,8.63
+1956,Sydney,16.64,8.28
+1957,Sydney,17.06,8.73
+1958,Sydney,17.41,8.77
+1959,Sydney,17.23,8.73
+1960,Sydney,16.68,8.58
+1961,Sydney,16.86,8.80
+1962,Sydney,16.74,8.75
+1963,Sydney,16.93,8.86
+1964,Sydney,16.96,8.41
+1965,Sydney,17.00,8.53
+1966,Sydney,16.64,8.60
+1967,Sydney,16.85,8.70
+1968,Sydney,17.27,8.52
+1969,Sydney,17.18,8.60
+1970,Sydney,16.78,8.70
+1971,Sydney,16.84,8.60
+1972,Sydney,17.03,8.50
+1973,Sydney,17.81,8.95
+1974,Sydney,16.98,8.47
+1975,Sydney,17.34,8.74
+1976,Sydney,17.01,8.35
+1977,Sydney,17.34,8.85
+1978,Sydney,17.16,8.69
+1979,Sydney,17.56,8.73
+1980,Sydney,18.00,8.98
+1981,Sydney,17.49,9.17
+1982,Sydney,17.30,8.64
+1983,Sydney,17.47,9.03
+1984,Sydney,16.91,8.69
+1985,Sydney,17.09,8.66
+1986,Sydney,17.06,8.83
+1987,Sydney,17.37,8.99
+1988,Sydney,17.89,9.20
+1989,Sydney,17.26,8.92
+1990,Sydney,17.47,9.23
+1991,Sydney,17.85,9.18
+1992,Sydney,16.89,8.84
+1993,Sydney,17.42,8.87
+1994,Sydney,17.36,9.04
+1995,Sydney,16.95,9.35
+1996,Sydney,17.05,9.04
+1997,Sydney,17.51,9.20
+1998,Sydney,18.05,9.52
+1999,Sydney,17.55,9.29
+2000,Sydney,17.57,9.20
+2001,Sydney,17.85,9.41
+2002,Sydney,17.73,9.57
+2003,Sydney,17.59,9.53
+2004,Sydney,17.87,9.32
+2005,Sydney,18.03,9.70
+2006,Sydney,17.75,9.53
+2007,Sydney,18.02,9.73
+2008,Sydney,17.32,9.43
+2009,Sydney,18.18,9.51
+2010,Sydney,18.00,9.70
+2011,Sydney,17.71,9.52
+2012,Sydney,17.47,9.51
+2013,Sydney,18.09,9.61
