@@ -11,9 +11,9 @@ SELECT  city.year as cyear,
         city.avg_temp as city_avg_temp,
         global.avg_temp as glob_avg_temp
 FROM city_data city, global_data global
-WHERE 	city.year = global.year AND
-		city in ('Prague', 'Johannesburg', 'New York', 
-                 'Shanghai', 'Sydney', 'Rio De Janeiro')
+WHERE  city.year = global.year AND
+       city in ('Prague', 'Johannesburg', 'New York', 
+                'Shanghai', 'Sydney', 'Rio De Janeiro')
 ```
 
 ## Analysis
