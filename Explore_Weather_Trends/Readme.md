@@ -4,6 +4,12 @@
 An introductory project from Udacity's Data Analyst Nanodegree Program analyzes local and global temperature data and compares the temperature trends in selected cities with overall global temperature trends.
 
 ## Dataset
+There are three tables in the database:
+- `city_list` - This contains a list of cities and countries in the database. Look through them in order to find the city nearest to you.
+- `city_data` - This contains the average temperatures for each city by year (ºC).
+- `global_data` - This contains the average global temperatures by year (ºC).
+
+Data for analysis is extracted using the following SQL query:
 
 ```
 SELECT  city.year as cyear,
