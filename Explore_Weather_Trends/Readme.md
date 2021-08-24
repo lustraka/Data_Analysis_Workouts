@@ -12,7 +12,7 @@ There are three tables in the database:
 Data for analysis is extracted using the following SQL query:
 
 ```
-SELECT  city.year as cyear,
+SELECT  city.year,
         city.city,
         city.avg_temp as city_avg_temp,
         global.avg_temp as glob_avg_temp
