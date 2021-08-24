@@ -7,7 +7,7 @@ An introductory project from Udacity's Data Analyst Nanodegree Program analyzes 
 
 ```
 SELECT  city.year as cyear,
-		    city.city,
+        city.city,
         city.avg_temp as city_avg_temp,
         global.avg_temp as glob_avg_temp
 FROM city_data city, global_data global
@@ -25,3 +25,10 @@ WHERE 	city.year = global.year AND
 - [Udacity: Project Rubrics](https://review.udacity.com/#!/rubrics/1125/view)
 - [Udacity: Project FAQ](https://sites.google.com/udacity.com/data-analyst-project-1/home)
 - [CarbonBrief Explainer: How do scientists measure global temperature?](https://www.carbonbrief.org/explainer-how-do-scientists-measure-global-temperature)
+
+<!--
+SELECT *
+FROM city_list
+WHERE city in ('Prague', 'Johannesburg', 'New York', 
+               'Shanghai', 'Sydney', 'Rio De Janeiro')
+-->
