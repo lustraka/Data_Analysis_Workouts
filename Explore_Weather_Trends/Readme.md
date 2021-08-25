@@ -11,6 +11,7 @@ Results of an analysis are presented in the Pyton Jupyter notebook. Best renderi
 - [Udacity: Project Rubrics](https://review.udacity.com/#!/rubrics/1125/view)
 - [Udacity: Project FAQ](https://sites.google.com/udacity.com/data-analyst-project-1/home)
 - [CarbonBrief Explainer: How do scientists measure global temperature?](https://www.carbonbrief.org/explainer-how-do-scientists-measure-global-temperature)
+- [Udacity: Project Submission Review](https://review.udacity.com/?utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_medium=email&utm_content=reviewsapp-submission-reviewed&bsft_clkid=417ba2b2-348a-4ffb-ae78-a8ba97adda3b&bsft_uid=cdc7152a-1404-4c6c-a86f-5d67acbdf89a&bsft_mid=35dc52c4-9876-4cf8-9346-643ddceb6003&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=a580e9fb-68e7-435e-b4dd-bc62e7557ca5&bsft_mime_type=html&bsft_ek=2021-08-25T07%3A52%3A48Z&bsft_aaid=8d7e276e-4a10-41b2-8868-423fe96dd6b2&bsft_lx=2&bsft_tv=5#!/reviews/3122246)
 
 
 ## Appendix
