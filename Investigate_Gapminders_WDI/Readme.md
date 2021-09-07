@@ -8,6 +8,11 @@ Gapminder has collected a lot of information about how people live their lives i
 
 **Example Question**: Have certain regions of the world been growing in your selected metrics better than others? Are there trends that can be observed between the selected metrics?
 
+# Research and Development Resources
+- [WEForum: Sean Fleming (2020-11-16) These countries spend the most on research and development](https://www.weforum.org/agenda/2020/11/countries-spending-research-development-gdp/)
+- [WEForum: Strategic Intelligence](https://intelligence.weforum.org/)
+- [UNESCO: Science,technology and innovation](http://data.uis.unesco.org/Index.aspx?DataSetCode=SCN_DS&lang=en)
+
 # References
 - [Udacity: Investigate a Dataset Rubric](https://review.udacity.com/#!/rubrics/107/view) specifies the project requirements.
 - [Gapminder: Data](https://www.gapminder.org/data/) presents data sources and offers datasets for choosen indicators for download.
