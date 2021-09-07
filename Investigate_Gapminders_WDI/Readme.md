@@ -12,3 +12,4 @@ Gapminder has collected a lot of information about how people live their lives i
 - [Udacity: Investigate a Dataset Rubric](https://review.udacity.com/#!/rubrics/107/view) specifies the project requirements.
 - [Gapminder: Data](https://www.gapminder.org/data/) presents data sources and offers datasets for choosen indicators for download.
 - [GitHub: ddf-open_nubers--wdi](https://github.com/open-numbers/ddf--open_numbers--world_development_indicators) contains complete copy of data from World Bank.
+- [World Bank: World Development Indicators HomePage](https://datatopics.worldbank.org/world-development-indicators/) collects links to other interesting resources.
