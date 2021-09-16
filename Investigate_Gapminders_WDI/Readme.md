@@ -9,6 +9,9 @@ See [Investigate_R_and_D_Expenditures_Population.ipynb](https://github.com/lustr
 
 [Udacity: Review of the submisison #1](https://review.udacity.com/#!/reviews/3162325)
 
+[Udacity: Review of the submisison #2](https://review.udacity.com/#!/reviews/3164559) (with many useful links)
+
+
 # Research and Development Resources
 - [WEForum: Sean Fleming (2020-11-16) These countries spend the most on research and development](https://www.weforum.org/agenda/2020/11/countries-spending-research-development-gdp/)
 - [WEForum: Strategic Intelligence](https://intelligence.weforum.org/)
