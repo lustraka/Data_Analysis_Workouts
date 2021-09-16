@@ -14,6 +14,7 @@ See [Investigate_R_and_D_Expenditures_Population.ipynb](https://github.com/lustr
 
 # References
 - [Udacity: Investigate a Dataset Rubric](https://review.udacity.com/#!/rubrics/107/view) specifies the project requirements.
+- [Udacity: Review of the submisison #1](https://review.udacity.com/#!/reviews/3162325)
 - [Gapminder: Data](https://www.gapminder.org/data/) presents data sources and offers datasets for choosen indicators for download.
 - [GitHub: Open Numbers (DDF)](https://open-numbers.github.io/ddf.html) is crowd-sourced harmonization of global & local statistics.
 - [DDF Conceptual Model](https://docs.google.com/document/d/1Cd2kEH5w3SRJYaDcu-M4dU5SY8No84T3g-QlNSW6pIE/edit#heading=h.5h1e33vzhdlu) explains the basics of data definition format (file) maybe also data distribution frame (facility).
