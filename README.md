@@ -16,6 +16,18 @@ The program focuses on learning by doing. To graduate, I completed a series of p
 
 ![Hypotheses and Errors](http://www.plantuml.com/plantuml/png/VP31IWD138Rl-nGvQX2rLwdIWqgzUB7U2f9jOsTWp0oJhCk-lMlMoYheBVcJoVSnApMgrhVQ83onmNE1zL2o1LRMhMW62sGmzj3dgWpv5RZMiOIe7YFQK1WUfXZnga64n_orDJO8czenbApHuZlF8k437ID0t4ntxlmXekyjtyZ23QKIQ7dXjSUtl8lxA0Ste6HSnI_1oVfbSUfg8-1iAtrW0TfPHoaDdzFBx-cvNxg-fwG_xM0IEPhCF5gslpMaIya9__8Nl_YEd_r4isBPzwr-0000)
 
+**Example**:
+
+We set up the null and alternative hypotheses in the following way:
+
+![H_0: mu_n - mu_0 <= 0](http://www.plantuml.com/plantuml/png/SoWkIImgoKqioU3oY3UmKiWjZSzJq0LH1WesjWe6N0wfUIaWQG00)
+
+and
+
+![H_1: mu_n - mu_0 > 0](http://www.plantuml.com/plantuml/png/SoWkIImgoKqioU3oY3UqKiWjZSzJq0LH1Wfs2WPS3gbvAI1P0000)
+
+where ![mu_0](http://www.plantuml.com/plantuml/png/SoWkIImgoKqioU3ABOqtu798pKi1yG00) is the mean revenue of the old campaign, and ![mu_1](http://www.plantuml.com/plantuml/png/SoWkIImgoKqioU3ABOtFut98pKi1yG00) is the mean revenue of the new campaign.
+
 # Wrangle and Analyze Data
 
 # Communicate Data Findings
