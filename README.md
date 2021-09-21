@@ -27,6 +27,10 @@ and
 ![H_1: mu_n - mu_0 > 0](http://www.plantuml.com/plantuml/png/SoWkIImgoKqioU3oY3UqKiWjZSzJq0LH1Wfs2WPS3gbvAI1P0000)
 
 where ![mu_0](http://www.plantuml.com/plantuml/png/SoWkIImgoKqioU3ABOqtu798pKi1yG00) is the mean revenue of the old campaign, and ![mu_1](http://www.plantuml.com/plantuml/png/SoWkIImgoKqioU3ABOtFut98pKi1yG00) is the mean revenue of the new campaign.
+- The null is that the mean revenue of the new campaign is less than or equal to the mean of the old campaing.
+- The alternative is that the mean revenue of the new campaign is larger than the mean revenue of the old campaign.
+- **Type I Error**: Deciding the new page is better, but really the old page is better.
+- Type II Error: Deciding the old page is better, but really the new page is better.
 
 # Wrangle and Analyze Data
 
