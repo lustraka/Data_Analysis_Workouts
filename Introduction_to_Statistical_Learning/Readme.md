@@ -1,8 +1,8 @@
 # An Introduction to Statistical Learning by Gareth James et al.
 Statistical learning refers to a vast set of tools for understaning data. 
 ## Contents
-1. Introduction
-2. Statistical Learning
+1. Introduction [IPYNB](https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Introduction_to_Statistical_Learning/ISL01_Introduction.ipynb)
+2. Statistical Learning [IPYNB](https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Introduction_to_Statistical_Learning/ISL02_Statistical_Learning.ipynb)
 3. Linear Regression
 4. Classification
 5. Resampling Methods
@@ -23,7 +23,7 @@ Statistical learning refers to a vast set of tools for understaning data.
 - [Latex Codecogs](https://www.codecogs.com/latex/eqneditor.php)
 
 ## Math Rendering
-All these expression works in IPYNB but are not rendered properly when displayed on GitHub...
+All these expression works in IPYNB (even in HTML from `nbconvert`) but are not rendered properly when displayed on GitHub...
 
 $$\begin{array}{}
 E(Y - \hat{Y})^2 &= E[f(X) + \epsilon - \hat{f}(X)]^2 \\
@@ -34,5 +34,7 @@ $$\begin{matrix}
 E(Y - \hat{Y})^2 =& E[f(X) + \epsilon - \hat{f}(X)]^2 \\
 \qquad =& \underbrace{[f(X) - \hat{f}(X)]^2}_\text{Reducible} + \underbrace{\text{Var}(\epsilon)}_\text{Irreducible}, \qquad (3)
 \end{matrix}$$
+
+$$E(Y - \hat{Y})^2 = E[f(X) + \epsilon - \hat{f}(X)]^2 = \underbrace{[f(X) - \hat{f}(X)]^2}_\text{Reducible} + \underbrace{\text{Var}(\epsilon)}_\text{Irreducible}, \quad (3)$$
 
 ![expresstion](http://latex.codecogs.com/gif.latex?E(Y-\hat{Y})^2=E[f(X)+\epsilon-\hat{f}(X)]^2=\underbrace{[f(X)-\hat{f}(X)]^2}_\text{Reducible}+\underbrace{\text{Var}(\epsilon)}_\text{Irreducible},\qquad(3))
