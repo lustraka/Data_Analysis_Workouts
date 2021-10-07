@@ -3,7 +3,29 @@
 ## Introduction
 The purpose of this project is to wrangle and analyze data from WeRateDogs Twitter archive.
 
-## Storing data
+## Assess Data
+### Create an Extended Info Table
+
+```python
+# Copy rows of pd.info () to this multiline string
+info = """"""
+
+rows = info.split('\n')
+
+# Show positions of columns
+for idx, letter in enumerate(rows[0]):
+  print(idx, letter)
+
+# Print the header of a table
+print('| # | Variable | Non-Null | Nunique | Dtype | Notes |')
+print('|---|----------|----------|---------|-------|-------|')
+
+# Print the rows (but adjust slicing parameters beforehand)
+for row in rows:
+  print(f'| {row[:4].strip()} | {row[5:14].strip()} | {row[15:19].strip()} | | {row[31:].strip()} | |')
+```
+
+## Store Data
 ### Storing raw data
 Gathering data via the Twitter API requires about half of an hour. To iterate easily, store and load data using **SQLAlchemy**:
 
