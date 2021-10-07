@@ -31,25 +31,30 @@ Gathering data via the Twitter API requires about half of an hour. To iterate ea
 
 ```python
 # Store dataframes for further processing
-# Import dependencies
 from sqlalchemy import create_engine
-# Create SQLAlchemy Engine and empty database
+
+# Create SQLAlchemy engine and empty database
 engine = create_engine('sqlite:///weratedogsdata.db')
+
 # Store dataframes in database
 dfa.to_sql('dba', engine, index=False)
 dfi.to_sql('dbi', engine, index=False)
 dft.to_sql('dbt', engine, index=False)
+
+# Upload the file to GitHub !
 ```
 
 ```python
-# Download the database
+# Store dataframes for further processing
+from sqlalchemy import create_engine
+
+# Upload the database from GitHub
 url_db = 'https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Analyse_Twitter_Data/weratedogsdata.db?raw=true'
 r = requests.get(url_db)
 with open('weratedogsdata.db', 'wb') as file:
   file.write(r.content)
 
-from sqlalchemy import create_engine
-# Create SQLAlchemy Engine and connect to the database
+# Create SQLAlchemy engine and connect to the database
 engine = create_engine('sqlite:///weratedogsdata.db')
 
 # Read dataframes from SQlite database
