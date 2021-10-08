@@ -24,6 +24,25 @@ print('|---|----------|----------|---------|-------|-------|')
 for row in rows:
   print(f'| {row[:4].strip()} | {row[5:14].strip()} | {row[15:19].strip()} | | {row[31:].strip()} | |')
 ```
+## Clean Data
+| Define (Design) | Code (Execute) | Test (Evaluate) |
+| --- | --- | --- |
+| Add missing observations | [pd.concat()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html) | df.shape |
+| Check computation or impute | df.nVarY = f(df.nVarX1, ..., df.nVarP) | assert statement with df.all().all() |
+| Extract catergorical variable | [pd.Series.str.extract()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.extract.html), [pythex.org](https://pythex.org/), [regex_cheatsheet](https://learnbyexample.github.io/python-regex-cheatsheet/#re-module-functions), [df.drop()](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html) | df.info(), df.sample() |
+| Unpivot a dataframe | [pd.melt()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.melt.html), [pd.Series.str.split()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.split.html) | df.head() |
+| Add new variables; Consolidate variables in multiple data sets | [df.merge()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html), [df.join()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html) | df.head() |
+| Convert dtype of a variable | [df.astype()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html), [pd.to_datetime()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html) | df.info(), df.head() |
+| Replace an incorrect value | [df.replace()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.replace.html), [df.where()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.where.html), [df.at()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.at.html) | df.query() |
+| Transform values of a variable |  [df.apply()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.apply.html)| df.query(), df.value_counts() |
+| Remove incorrect observation | [Indexing and selecting data](https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html) | |
+| | | |
+
+```python
+# Object_ID should be the only duplicate column in case of multiple data sets
+all_columns = pd.Series(list(df1) + list(df2) + list(dfn))
+all_columns[all_columns.duplicated()]
+```
 
 ## Store Data
 ### Storing raw data
