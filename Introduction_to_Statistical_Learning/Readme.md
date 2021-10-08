@@ -3,7 +3,7 @@ Statistical learning refers to a vast set of tools for understaning data.
 ## Contents
 1. Introduction [[IPYNB](https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Introduction_to_Statistical_Learning/ISL01_Introduction.ipynb)]
 2. Statistical Learning [[IPYNB](https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Introduction_to_Statistical_Learning/ISL02_Statistical_Learning.ipynb)]
-3. Linear Regression
+3. Linear Regression [[IPYNB](https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Introduction_to_Statistical_Learning/ISL03_Linear_Regression.ipynb)]
 4. Classification
 5. Resampling Methods
 6. Linear Model Selection and Regularization
@@ -14,6 +14,10 @@ Statistical learning refers to a vast set of tools for understaning data.
 11. Survival Analysis and Censored Data
 12. Unsupervised Learning
 13. Multiple Testing
+
+## Data Stories
+- [Advertising](https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Introduction_to_Statistical_Learning/DataStory_Advertising.ipynb)
+- [Advertising](DataStory_Advertising.ipynb)
 
 ## References:
 - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (20210729) An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics), 2nd Edition (ISL)
