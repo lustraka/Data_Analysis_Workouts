@@ -101,9 +101,22 @@ df_clean.shape
 ```
 
 ## Report Insights
-[How to hide code from cells in ipython notebook visualized with nbviewer?](https://stackoverflow.com/questions/27934885/how-to-hide-code-from-cells-in-ipython-notebook-visualized-with-nbviewer)
+[StackOverflow: How to hide code from cells in ipython notebook visualized with nbviewer?](https://stackoverflow.com/questions/27934885/how-to-hide-code-from-cells-in-ipython-notebook-visualized-with-nbviewer)
 ```
 jupyter nbconvert --to html --TemplateExporter.exclude_input=True act_report.ipynb 
+```
+[StackOverflow: ipython notebook align table to the left of cell](https://stackoverflow.com/questions/21892570/ipython-notebook-align-table-to-the-left-of-cell)
+```python
+%%html
+<style>
+table {float:left}
+</style>
+```
+or
+```python
+from IPython.core.display import HTML
+table_css = 'table {align:left;display:block} '
+HTML('<style>{}</style>'.format(table_css))
 ```
 
 ## References
