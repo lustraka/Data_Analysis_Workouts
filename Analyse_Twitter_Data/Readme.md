@@ -81,7 +81,24 @@ dfa = pd.read_sql('SELECT * FROM dba', engine)
 dfi = pd.read_sql('SELECT * FROM dbi', engine)
 dft = pd.read_sql('SELECT * FROM dbt', engine)
 ```
+### Restoring clean data
+```python
+# Store dataframes for further processing
+from sqlalchemy import create_engine
 
+# Upload the database from GitHub
+url_db = 'https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Analyse_Twitter_Data/weratedogsdata_clean.db?raw=true'
+r = requests.get(url_db)
+with open('weratedogsdata_clean.db', 'wb') as file:
+  file.write(r.content)
+
+# Create SQLAlchemy engine and connect to the database
+engine = create_engine('sqlite:///weratedogsdata_clean.db')
+
+# Read dataframes from SQlite database
+df_clean = pd.read_sql('SELECT * FROM df_clean', engine)
+df_clean.shape
+```
 ## References
 - [Udacity: Project Overview](https://classroom.udacity.com/nanodegrees/nd002/parts/cd0015/modules/0d74f2b3-e708-4fe7-b07e-6548d45e491d/lessons/a9596390-9691-4891-9a86-1d6044976f09/concepts/48566cfd-e9c5-4b49-aaff-f63c16672b0e)
 - [Udacity: Project Rubric](https://review.udacity.com/#!/rubrics/1136/view)
