@@ -103,7 +103,7 @@ df_clean.shape
 ## Report Insights
 [How to hide code from cells in ipython notebook visualized with nbviewer?](https://stackoverflow.com/questions/27934885/how-to-hide-code-from-cells-in-ipython-notebook-visualized-with-nbviewer)
 ```
-jupyter nbcovert --to html --TemplateExporter.exclude_input=True act_report.ipynb
+jupyter nbconvert --to html --TemplateExporter.exclude_input=True act_report.ipynb 
 ```
 
 ## References
