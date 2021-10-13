@@ -86,7 +86,7 @@ dft = pd.read_sql('SELECT * FROM dbt', engine)
 ```
 ### Restoring clean data
 ```python
-# Store dataframes for further processing
+# Restore dataframe for further processing
 from sqlalchemy import create_engine
 
 # Upload the database from GitHub
