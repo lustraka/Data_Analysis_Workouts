@@ -1,8 +1,23 @@
 # Wrangle and Analyze WeRateDogs Data
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/04/WeRateDogs.jpg" alt="WeRateDogsPhoto" width="400"/>
+      <p><i>Provided by WeRateDogs</i><p>
+    </td>
+    <td>
+      <img src="https://pbs.twimg.com/profile_images/1443981045506797568/BEjy5Iw2_400x400.jpg" alt="WeRateDogsPhoto" width="400"/>
+      <p><i>Provided by WeRateDogs</i><p>
+    </td>
+  </tr>
+</table>
 
-![WeRateDogsPhotp](https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2017/04/WeRateDogs.jpg)
+<!--
+<table>
+  <tr><td>first cell</td><td>second cell</td></tr>
+</table>
+-->
 
-*Provided by WeRateDogs*
 ## Introduction
 The purpose of this project is to wrangle and analyze data from WeRateDogs Twitter archive.
 
