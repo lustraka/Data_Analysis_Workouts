@@ -22,7 +22,7 @@ Statistical learning refers to a vast set of tools for understaning data.
 ## References:
 - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (20210729) An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics), 2nd Edition (ISL)
 - [ISL Book Website](https://www.statlearning.com/)
-- [ISL On-line Course Video Archive](https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+- [ISL EdX On-Line Course](https://learning.edx.org/course/course-v1:StanfordOnline+STATSX0001+1T2020/home)
 - [Ted Petrou: Introduction to Statistical Learning with Python](https://github.com/tdpetrou/Machine-Learning-Books-With-Python/tree/master/Introduction%20to%20Statistical%20Learning)
 - [LaTeX/Mathematics](https://en.wikibooks.org/wiki/LaTeX/Mathematics#Adding_text_to_equations)
 - [Latex Codecogs](https://www.codecogs.com/latex/eqneditor.php)
