@@ -53,6 +53,7 @@ def plot_rel_freq(df, variable, title):
   # print('tick_props = ', tick_props)
   # print('tick_names = ', tick_names)
 
+  base_color = sb.color_palette()[0]
   sb.countplot(data=df, y=variable, color=base_color, order=var_counts.index)
   # Change tick locations and labels
   plt.xticks(tick_props * n_val, tick_names)
