@@ -42,7 +42,7 @@ def plot_rel_freq(df, variable, title):
   # Assign sum of values
   n_val = var_counts.sum()
 
-  # Compute the lenght fo the longest bar in terms of proportion
+  # Compute the lenght of the longest bar in terms of proportion
   max_prop = var_counts[0] / n_val
   # Produce a set of evenly spaced proportioned values
   tick_props = np.arange(0, max_prop, 0.02)
