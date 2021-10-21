@@ -68,6 +68,7 @@ def plot_rel_freq(df, variable, title):
       
   left, right = plt.xlim()
   plt.xlim(left, right+10)
+  plt.xlabel('relative count')
   plt.title(title)
   plt.show()
 
