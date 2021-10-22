@@ -28,50 +28,63 @@ plt.xticks(rotation=90)
 
 ### Plot Relative Frequencies Pattern
 ```python
-# Initialize variables
-df = dataframe
-variable = variable
-title = 'Relative Frequency of ...'
+# Define a function
+def plot_top_rel_freq(data, title, top=None, nobs=None):
+  """Plot `top` values the `data` series.
+  
+  Args:
+     data - a pd.Series with counts to plot
+     title - a chart's title ({} displays a number of categories)
+     top - if None, plot all categories
+     nobs - if None, use `data.sum()`"""
+  
+  def set_step(step):
+    """Set nicely rounded step size."""
+    lg = -1*np.log10(step)
+    if lg > 0.1:
+      return round(step, round(lg))
+    else:
+      return round(step, -1)
+  
+  # Choose the first tuple of RGB colors to reduce distraction
+  base_color = sns.color_palette()[0]
 
-def plot_rel_freq(df, variable, title):
-  """Plots a relative frequency bar chart for a `variable` in a dataframe `df`."""
+  # Check the order of values
+  data = data.sort_values(ascending=False)
 
-  # Assign counts of variable values
-  var_counts = df[variable].value_counts()
-  # var_counts.head()
-  # Assign sum of values
-  n_val = var_counts.sum()
-
+  # If top == None, plot all observations.
+  if top == None or top > data.shape[0]:
+    top = data.shape[0]
+  
+  # If nobs == None, use data.sum()
+  if nobs == None:
+    nobs = data.sum()
+  
   # Compute the lenght of the longest bar in terms of proportion
-  max_prop = var_counts[0] / n_val
+  max_prop = data[0] / nobs
   # Produce a set of evenly spaced proportioned values
-  tick_props = np.arange(0, max_prop, 0.02)
+  tick_props = np.arange(0, max_prop, set_step(max_prop/5))
   # Create tick labels
-  tick_names = [f'{v:.0%}' for v in tick_props]
-  # Check ticks
-  # print('max_prop = ', max_prop)
-  # print('tick_props = ', tick_props)
-  # print('tick_names = ', tick_names)
+  tick_names = [f'{v:.1%}' for v in tick_props]
 
-  base_color = sb.color_palette()[0]
-  sb.countplot(data=df, y=variable, color=base_color, order=var_counts.index)
+  fig, ax = plt.subplots(figsize=(6.4, 4.8))
+  ax = sns.barplot(x=data[:top].values, y=data[:top].index, color=base_color)
   # Change tick locations and labels
-  plt.xticks(tick_props * n_val, tick_names)
+  plt.xticks(tick_props * nobs, tick_names)
 
   # Print the proportion text on the bars
-  for i in range(var_counts.shape[0]):
+  for i in range(top):
       # Read count
-      count = var_counts[i]
+      count = data[i]
       # Convert count into a percentage, and then into string
-      pct_count = f'{count/n_val:.1%}'
+      pct_count = f'{count/nobs:.1%}'
       # Print the string value on the bar
-      plt.text(count+1, i, pct_count, va='center')
-      
-  left, right = plt.xlim()
-  plt.xlim(left, right+10)
-  plt.xlabel('relative count')
-  plt.title(title)
-  plt.show()
+      plt.text(count+round(data[0]/100), i, pct_count, va='center')
 
-plot_rel_freq(df, variable, title)
+  # Render the chart
+  left, right = plt.xlim()
+  plt.xlim(left, right+round(data[0]/15))
+  ax.set_title(title.format(top))
+
+  return None
 ```
