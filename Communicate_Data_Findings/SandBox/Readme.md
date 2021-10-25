@@ -61,7 +61,7 @@ def plot_top_rel_freq(data, title, top=None, nobs=None):
     nobs = data.sum()
   
   # Compute the lenght of the longest bar in terms of proportion
-  max_prop = data[0] / nobs
+  max_prop = data.iloc[0] / nobs
   # Produce a set of evenly spaced proportioned values
   tick_props = np.arange(0, max_prop, set_step(max_prop/5))
   # Create tick labels
