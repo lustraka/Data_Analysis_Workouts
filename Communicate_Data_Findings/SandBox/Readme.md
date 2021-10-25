@@ -26,7 +26,35 @@ plt.xticks(rotation=90)
 ```
 > **Additional Variation** - Refer to the `CategoricalDtype` to convert the column into an ordered categorical data type. By default, pandas reads in string data as object types, and will plot the bars in the order in which the unique values were seen. By converting the data into an ordered type, the order of categories becomes innate to the feature, and we won't need to specify an "order" parameter each time it's required in a plot.
 
-### Plot Relative Frequencies Pattern
+## Pie (& Donut) Chart
+```
+matplotlib.pyplot.pie(x_data, labels, colors, startangle, counterclock, wedgeprops)
+```
+
+## Histograms
+### Pyplot
+```
+matplotlib.pyplot.hist(x, bins)
+matplotlib.pyplot.hist(data, x, bins)
+```
+### Seaborn
+See [Seaborn: Visualizing distributions of data](https://seaborn.pydata.org/tutorial/distributions.html) tutorial to learn about
+- choosing the bin size,
+- conditioning on other variables,
+- normalized histogram statistics,
+- kernel density etimation (kde),
+- empirical cumulative distributions,
+- visualizing bivariate distributions,
+- [distribution vizualization in other settings](https://seaborn.pydata.org/tutorial/distributions.html#distribution-visualization-in-other-settings)
+- plotting many distributions (sns.pairplot())
+```
+seaborn.distplot(Series, bins, kde, hist_kws)
+seaborn.displot(data, x)
+seaborn.histplot(data, x)
+seaborn.kdeplot()
+```
+
+## Plot Relative Frequencies Pattern
 ```python
 # Define a function
 def plot_top_rel_freq(data, title, top=None, nobs=None):
