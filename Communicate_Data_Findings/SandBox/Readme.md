@@ -42,7 +42,7 @@ See [Seaborn: Visualizing distributions of data](https://seaborn.pydata.org/tuto
 - choosing the bin size,
 - conditioning on other variables,
 - normalized histogram statistics,
-- kernel density etimation (kde),
+- kernel density estimation (kde),
 - empirical cumulative distributions,
 - visualizing bivariate distributions,
 - [distribution vizualization in other settings](https://seaborn.pydata.org/tutorial/distributions.html#distribution-visualization-in-other-settings)
