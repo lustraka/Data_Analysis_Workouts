@@ -75,7 +75,7 @@ def plot_top_rel_freq(data, title, top=None, nobs=None):
   # Print the proportion text on the bars
   for i in range(top):
       # Read count
-      count = data[i]
+      count = data.iloc[i]
       # Convert count into a percentage, and then into string
       pct_count = f'{count/nobs:.1%}'
       # Print the string value on the bar
