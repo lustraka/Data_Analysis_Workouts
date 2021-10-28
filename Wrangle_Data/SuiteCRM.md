@@ -36,3 +36,29 @@ Got questions? We have a number of resources that can help along the way!
 
 [Bitnami Helpdesk](https://helpdesk.bitnami.com/hc/en-us)
 If you have any questions about any of your AWS services or AWS account please contact AWS customer service.
+
+**Your AWS Marketplace product: SuiteCRM packaged by Bitnami**
+Dear AWS Marketplace Customer,
+
+You are entitled to the following product in AWS Marketplace:
+* SuiteCRM packaged by Bitnami  sold by Bitnami
+
+Your entitlement to this product results either from a subscription you made directly or an entitlement that you were granted from an associated account in your AWS Organization.
+
+You are now able to use this software in AWS. You can launch the Amazon Machine Image (AMI) from AWS Marketplace, via the AWS Console, or the EC2 APIs.
+
+Details needed to launch the software, including AMI IDs, instructions, and recommended security settings can be found by visiting Your Software on AWS Marketplace: [https://aws.amazon.com/…l_1](https://console.aws.amazon.com/marketplace/home?region=us-east-1#/subscriptions?Feedback=true).
+
+Software Pricing and Other Charges 
+
+You will not incur software charges for using this product, but you are still responsible for other AWS charges, including EC2 usage. If this is a "Bring Your Own License" product you must have a valid software license in order to use it.
+
+You can review information for this software here: [https://aws.amazon.com/…3h3](https://aws.amazon.com/marketplace/pp/prodview-4une6drqefwxs).
+
+If you have questions, please contact us: [https://aws.amazon.com/…l_1](https://console.aws.amazon.com/support/home?#/case/create?issueType=customer-service&serviceCode=amazon-marketplace).
+
+-- The AWS Marketplace Team
+
+This message was produced and distributed by Amazon Web Services, Inc. and affiliates, 410 Terry Ave. North, Seattle, WA 98109-5210.
+
+
