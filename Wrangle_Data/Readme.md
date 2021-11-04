@@ -9,3 +9,6 @@
 - [https://knoema.com/](https://knoema.com/)
 - Google > Search Central > Documentation > Advanced SEO > [Dataset](https://developers.google.com/search/docs/advanced/structured-data/dataset)
 - [//github.com/googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python)
+
+## Workout
+- [programmatically-searching-google-in-python-using-custom-search](https://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search)
