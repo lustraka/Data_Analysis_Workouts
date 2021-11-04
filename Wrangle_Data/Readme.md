@@ -7,3 +7,5 @@
 - **[Google Dataset Search](https://datasetsearch.research.google.com/)**
 - [https://www.statista.com/](https://www.statista.com/)
 - [https://knoema.com/](https://knoema.com/)
+- Google > Search Central > Documentation > Advanced SEO > [Dataset](https://developers.google.com/search/docs/advanced/structured-data/dataset)
+- [//github.com/googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python)
