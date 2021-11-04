@@ -6,3 +6,4 @@
 - [Free Publicly-Accessible Databases](https://www.library.ucsb.edu/search-research/free-databases)
 - **[Google Dataset Search](https://datasetsearch.research.google.com/)**
 - [https://www.statista.com/](https://www.statista.com/)
+- [https://knoema.com/](https://knoema.com/)
