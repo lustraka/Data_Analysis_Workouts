@@ -1,6 +1,6 @@
 # Data Visualization Project's Exercises
 ## Diamond Case Study
-- [Example_Project_ipynb](Example_Project_Diamonds_Part1.html?raw=False)
+- [Example_Project_ipynb](Example_Project_Diamonds_Part1.html?raw=True)
 - [Example_Project_slides](Example_Project_Diamonds_Part2.slides.html)
 
 ## Bar Chart using Seaborn
