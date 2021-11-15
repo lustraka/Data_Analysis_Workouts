@@ -1,13 +1,13 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Ames Housing Data Exploration
+**by Lubomir Straka**
 
 
 ## Dataset
 
 > Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
 
+The data consists of information regarding 1460 houses in Ames, Iowa, including their sale price, physical characteristics, space properties and location within the city. The dataset and feature documentation can be found among [Kaggle's datasets](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
-The Kaggle's anonymized dataset [Retail Store Sales Transactions (Scanner Data)](https://www.kaggle.com/marian447/retail-store-sales-transactions) includes 64.682 transactions of 5.242 SKU's sold to 22.625 customers during one year. Marian Svatko, a Kaggle expert, uploaded detailed data on sales of consumer goods obtained by 'scanning' the bar codes for individual products at electronic points of sale in a retail store. The data provide detailed information about quantities, characteristics and values of goods sold as well as prices.
 
 ## Summary of Findings
 
