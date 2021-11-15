@@ -16,5 +16,5 @@
 - [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) (requires account registration)
 - [https://toolbox.google.com/datasetsearch](https://toolbox.google.com/datasetsearch)
 - [https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
-- [https://dreamtolearn.com/ryan/1001_datasets](https://dreamtolearn.com/ryan/1001_datasets)
+- [https://docs.openml.org/Datasets/](https://docs.openml.org/Datasets/)
 - [https://mpopov.com/blog/advice-for-grads-entering-industry-datasci](https://mpopov.com/blog/advice-for-grads-entering-industry-datasci) - Also includes tips for breaking into the data scene!
