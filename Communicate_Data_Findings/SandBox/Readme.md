@@ -1,7 +1,6 @@
 # Data Visualization Project's Exercises
 ## Diamond Case Study
-- [Example_Project_ipynb](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/SandBox/Example_Project_Diamonds_Part1.html)
-- [Example_Project_slides](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/SandBox/Example_Project_Diamonds_Part2.slides.html)
+See [Diamonds-Example-Project](https://github.com/lustraka/Data_Analysis_Workouts/tree/main/Communicate_Data_Findings/Diamonds-Example-Project).
 
 ## Bar Chart using Seaborn
 ```
