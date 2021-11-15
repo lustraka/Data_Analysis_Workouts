@@ -47,3 +47,7 @@ is clear that they're different between plots.
 ## References
 - [Example_Project_ipynb (html)](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/SandBox/Example_Project_Diamonds_Part1.html)
 - [Example_Project_slides](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/SandBox/Example_Project_Diamonds_Part2.slides.html)
+- To view the slide deck, you will need to use the expression:
+```Python
+jupyter nbconvert Example_Project_Diamonds_Part2.ipynb --to slides --post serve --no-input --no-prompt
+```
