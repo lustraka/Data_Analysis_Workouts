@@ -43,3 +43,7 @@ categorical quality grades affect diamond pricing. The other two categorical
 variables, cut and color, are covered afterwards, using point plots. I've made
 sure to use different color palettes for each quality variable to make sure it
 is clear that they're different between plots.
+
+## References
+- [Example_Project_ipynb (html)](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/SandBox/Example_Project_Diamonds_Part1.html)
+- [Example_Project_slides](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/SandBox/Example_Project_Diamonds_Part2.slides.html)
