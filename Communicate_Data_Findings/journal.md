@@ -6,3 +6,15 @@
 
 20211020 **Changing a dataset**
 - [Kaggle: Store Sales - Time Series Forecasting](https://www.kaggle.com/c/store-sales-time-series-forecasting) : A "getting started" competition uses time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer. The competition is accompanied  with [Time Series course](https://www.kaggle.com/learn/time-series).
+
+## November 2021
+20211111 **Ames Housing Dataset** offers plenty of variables for exploration and explanation. The Kaggle's datasets are among recommended resources:
+[http://www.data.gov/](http://www.data.gov/)
+[http://databank.worldbank.org/data/home.aspx](http://databank.worldbank.org/data/home.aspx)
+[https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+[http://www.pewglobal.org/category/datasets/](http://www.pewglobal.org/category/datasets/) (requires account registration)
+[https://www.kaggle.com/datasets](https://www.kaggle.com/datasets) (requires account registration)
+[https://toolbox.google.com/datasetsearch](https://toolbox.google.com/datasetsearch)
+[https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+[https://dreamtolearn.com/ryan/1001_datasets](https://dreamtolearn.com/ryan/1001_datasets)
+[https://mpopov.com/blog/advice-for-grads-entering-industry-datasci](https://mpopov.com/blog/advice-for-grads-entering-industry-datasci) - Also includes tips for breaking into the data scene!
