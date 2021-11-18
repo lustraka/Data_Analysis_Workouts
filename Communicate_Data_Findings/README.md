@@ -13,13 +13,11 @@ The data consists of information regarding 1460 houses in Ames, Iowa, including 
 
 > Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
 
-In the exploration, I found that ther was a strong relationship between the price of a house and its ... with modifying effects from ...
+In the exploration, I found that there was a strong relationship between the price of a house and its six aspects falling into three categories: space (above grade living area, garage area, basement area), building (year of construction, remodeling or addition, overall quality of house's material and finish), and location (neighborhood). The relationships are approximatelly linear between price and selected house characteristics when price is transformed by a logarithmic function.
 
-The relationship is approximatelly linear between price and ... when price is transformed to be on a logarithmic scale (and ... transformed to be on a ... scale).
+When investigating an above grade living area, I found four unusual sales being partial, abnormal or simply unusual. I removed these outliers from the dataset. Another anomaly in the dataset is a high number of houses apparently constructed or remodeled in 1950. Furthermore, it looks like the missing values in overall quality variable occur exclusively in observations with the best overall quality.
 
-I found a somewhat surprising result initially when the marginal trend for ... variables indicated that higher ... was associted with lower price. Howerer, higher ... was also associated with smaller ... When I isolated ... there was a clear positive relationship between ... and ...
-
-Outside of the main variables of interest, I verified the relationship between ... and .... For the dataset given, there was an interesting interaction ...  The ... looked like they had slightly better distribution of ... then ... with ...
+As neighborhood location is a nominal categorical variable, correlation with house prices is rather low. To reveal the effect of location I've clustered neighborhoods using unit prices per square feet. After this transformation the effect of location is obvious.
 
 
 ## Key Insights for Presentation
