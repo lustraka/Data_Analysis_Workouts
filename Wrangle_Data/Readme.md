@@ -14,4 +14,4 @@
 - [programmatically-searching-google-in-python-using-custom-search](https://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search)
 
 ## PlayGround
-[Porovnani.html)](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/Porovnani.html)
+[Porovnani.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/Porovnani.html)
