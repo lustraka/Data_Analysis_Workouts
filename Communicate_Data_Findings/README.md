@@ -4,14 +4,10 @@
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
-
 The data consists of information regarding 1460 houses in Ames, Iowa, including their sale price, physical characteristics, space properties and location within the city. The dataset and feature documentation can be found among [Kaggle's datasets](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). Before exploration, I encoded nominal and ordinal categorical variables in line with the data description, imputed zeros to numerical and None to categorical variables in case of missing values, and did some basic cleaning.
 
 
 ## Summary of Findings
-
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
 
 In the exploration, I found that there was a strong relationship between the price of a house and its six aspects falling into three categories: space (above grade living area, garage area, basement area), building (year of construction, remodeling or addition, overall quality of house's material and finish), and location (neighborhood). The relationships are approximatelly linear between price and selected house characteristics when price is transformed by a logarithmic function.
 
@@ -21,8 +17,6 @@ As neighborhood is a nominal categorical variable, correlation with house prices
 
 
 ## Key Insights for Presentation
-
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 
 For the presentation, I focus just on influence of three explanatory variables on the response variable (sale price). I start by introducing the price variable, followed by the pattern in above grade living area, overall quality and neighborhood cluster distributions.
 
