@@ -15,9 +15,13 @@ When investigating an above grade living area, I found four unusual sales being 
 
 As neighborhood is a nominal categorical variable, correlation with house prices is rather low. To reveal the effect of location I've clustered neighborhoods using unit prices per square feet. After this transformation the effect of location is obvious.
 
+For details see [Part_I_exploration_ames.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/Part_I_exploration_ames.html)
+
 
 ## Key Insights for Presentation
 
 For the presentation, I focus just on influence of three explanatory variables on the response variable (sale price). I start by introducing the price variable, followed by the pattern in above grade living area, overall quality and neighborhood cluster distributions.
 
 Afterwards, I introduce each of the selected variable one by one. To start, I use the histograms of sale price before and after transformation and the histogram of above grade living area without outliers identified. The overall quality and neighborhood clusters are covered afterward, using violin plots. Next, I'm looking at the scatter plot of transformed prices versus above grade living area with neighborhood clusters distinguished by colors. Finally, I provide violin plots of transformed price versus overall quality for individual neighborhood clusters.
+
+For details see [Part_II_slide_deck_ames.slides.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/Part_II_slide_deck_ames.slides.html)
