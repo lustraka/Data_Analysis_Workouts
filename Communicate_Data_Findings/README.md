@@ -24,4 +24,4 @@ For the presentation, I focus just on influence of three explanatory variables o
 
 Afterwards, I introduce each of the selected variable one by one. To start, I use the histograms of sale price before and after transformation and the histogram of above grade living area without outliers identified. The overall quality and neighborhood clusters are covered afterward, using violin plots. Next, I'm looking at the scatter plot of transformed prices versus above grade living area with neighborhood clusters distinguished by colors. Finally, I provide violin plots of transformed price versus overall quality for individual neighborhood clusters.
 
-For details see [Part_II_slide_deck_ames.slides.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/Part_II_slide_deck_ames.slides.html)
+For details see [Part_II_slide_deck_ames.slides.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Communicate_Data_Findings/Part_II_slide_deck_ames.html)
