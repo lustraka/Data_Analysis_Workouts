@@ -15,4 +15,4 @@
 
 ## PlayGround
 - [Porovnani.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/Porovnani.html)
-- [topic_detail.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/topic_detail.html)
+- [topic_details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/topic_details.html)
