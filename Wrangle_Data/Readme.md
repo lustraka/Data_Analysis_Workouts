@@ -15,4 +15,5 @@
 
 ## PlayGround
 - [Porovnani.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/Porovnani.html)
-- [topic_details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/topic_details.html)
+- [topic_details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/topic_details.html) (KOMPOZITY)
+- [POP_topic_details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/POP_topic_details.html)
