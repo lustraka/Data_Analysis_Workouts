@@ -6,6 +6,7 @@
 - [POP_topic_details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/POP_topic_details.html)
 - [HORIZON-CL5-2022-D6-02-07-topic-details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/HORIZON-CL5-2022-D6-02-07-topic-details.html)
 - [HORIZON-JTI-CLEANH2-2022-01-0-topic_details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/HORIZON-JTI-CLEANH2-2022-01-0-topic_details.html)
+- [horizon-eie-2022-scaleup-02-01.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-eie-2022-scaleup-02-01.html)
 
 
 **Convert topic_details.html to PDF**
