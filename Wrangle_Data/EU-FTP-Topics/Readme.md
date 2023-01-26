@@ -7,7 +7,7 @@
 - [HORIZON-CL5-2022-D6-02-07-topic-details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/HORIZON-CL5-2022-D6-02-07-topic-details.html)
 - [HORIZON-JTI-CLEANH2-2022-01-0-topic_details.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/HORIZON-JTI-CLEANH2-2022-01-0-topic_details.html)
 - [horizon-eie-2022-scaleup-02-01.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-eie-2022-scaleup-02-01.html)
-- [horizon-cl6-2023-zeropollution-02-2-two-stage.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-cl6-2023-zeropollution-02-2-two-stage.html)
+- [horizon-cl6-2023-zeropollution-02-1-two-stage.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-cl6-2023-zeropollution-02-1-two-stage.html)
 
 
 **Convert topic_details.html to PDF**
