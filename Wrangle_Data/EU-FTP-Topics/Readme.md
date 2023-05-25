@@ -9,7 +9,7 @@
 - [horizon-eie-2022-scaleup-02-01.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-eie-2022-scaleup-02-01.html)
 - [horizon-cl6-2023-zeropollution-02-1-two-stage.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-cl6-2023-zeropollution-02-1-two-stage.html)
 - [horizon-cl4-2023-twin-transition-01-07.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-cl4-2023-twin-transition-01-07.html)
-- [horizon-cl4-2023-twin-transition-01-07.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-cl2-2023-heritage-eccch-01-01.html)
+- [horizon-cl2-2023-heritage-eccch-01-01.html](https://htmlpreview.github.io/?https://github.com/lustraka/Data_Analysis_Workouts/blob/main/Wrangle_Data/EU-FTP-Topics/html-out/horizon-cl2-2023-heritage-eccch-01-01.html)
 
 **Convert topic_details.html to PDF**
 - Include CSS styles into a `<style></style>` element in the document's head.
